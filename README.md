@@ -4,7 +4,7 @@
 
 ## Среда для решения задач
 
-1. Настроить локальный php для работы `assert` (подробнее в документации php.net)
+1. Настроить локальный php для работы [assert](https://www.php.net/manual/ru/function.assert.php)
 2. Воспользоваться готовой средой в Docker. [Репозиторий](https://github.com/otis22/php-minimal), [Видео инструкция](https://www.loom.com/share/e7434b8cd8fa4b0da69a8c0cf0339aa1)
 3. Воспользоваться [сервисом](https://sandbox.onlinephpfunctions.com/)
 
